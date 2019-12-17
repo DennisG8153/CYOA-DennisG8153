@@ -4,4 +4,4 @@
 #### You get a phone call! Do you **answer** it?
 
 ##### [Yes](/opt1yes.md)
-##### [No]
+##### [No](/opt2no.md)
