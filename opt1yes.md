@@ -1,6 +1,6 @@
 # YES
 
-### You got up and prepared for college. Now, how do you get there?
+### _You got up and prepared for college_. Now, **how** do you get there?
 
 #### [Walking]
 #### [Public Transport]
