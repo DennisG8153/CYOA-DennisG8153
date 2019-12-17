@@ -1,6 +1,6 @@
 # A Normal Day of College?
 
-## Do we wake up and go to college?
+## Do you wake up and go to college?
 
 #### [Yes](/opt1yes.md)
-#### [HELL NAH!]
+#### [HELL NAH!](/HELLNAH.md)
