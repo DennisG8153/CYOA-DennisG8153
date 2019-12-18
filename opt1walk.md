@@ -1,4 +1,4 @@
-# You Decided to Walk to School Today!
+# _You Decided to Walk to School Today!_
 
 ### You have stumbled upon a shortcut to school! Do you take the shortcut?
 
