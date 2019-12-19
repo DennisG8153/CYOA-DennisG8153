@@ -1,6 +1,6 @@
 # A Normal Day of College?
 
-## ![College Campus.](download2.jpeg)
+## ![College Campus.](download (2).jpeg)
 
 ### Do you wake up and go to college?
 
